@@ -1,10 +1,11 @@
 <h1 align="center"> Assalomu alaykum ! ☺️ </h1>
 
-# 💫 About Me:
+## 💫 About Me:
 - 👋 Hi, My name is Rakhimova Shokhista.<br> 
 - 👨‍💻 Currently, I am working on myself to improve my skills.<br>  
 - 👀 I am Full Stack developer and my main programming language is Java☕<br>
 - 📫 https://t.me/binti_jamshidbek
+- 📃[Recume](https://github.com/binti-jamshidbek/binti-jamshidbek/files/9401810/Rakhimova_Shokhista_Recume.2.pdf)
 
 
 ## 🌐 Socials:
