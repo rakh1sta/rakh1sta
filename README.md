@@ -4,8 +4,7 @@
 - 👋 Hi, My name is Rakhimova Shokhista.<br> 
 - 👨‍💻 Currently, I am working on myself to improve my skills.<br>  
 - 👀 I am Full Stack developer and my main programming language is Java☕<br>
-- ✈️ [Connect with Telegram](https://t.me/binti_jamshidbek) 
-- 📃 [Resume](https://github.com/binti-jamshidbek/binti-jamshidbek/files/9401810/Rakhimova_Shokhista_Recume.2.pdf,)
+- ✈️ [Connect with Telegram](https://t.me/rakh1sta) 
 
 
 ## 🌐 Socials:
